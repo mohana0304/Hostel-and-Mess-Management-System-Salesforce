@@ -1,0 +1,5 @@
+Complaint Fields:
+- Complaint_Type__c
+- Description__c
+- Status__c
+- Student__c (Lookup)

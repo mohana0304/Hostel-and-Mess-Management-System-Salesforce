@@ -1,0 +1,5 @@
+Room Fields:
+- Room_Number__c
+- Floor__c
+- Capacity__c
+- Room_Type__c

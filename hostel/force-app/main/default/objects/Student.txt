@@ -1,0 +1,7 @@
+Student Fields:
+- Name
+- Email__c
+- Phone__c
+- Course__c
+- Status__c
+- Room__c (Lookup)

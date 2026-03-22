@@ -1,0 +1,4 @@
+Fee Fields:
+- Amount__c
+- Payment_Date__c
+- Payment_Status__c
